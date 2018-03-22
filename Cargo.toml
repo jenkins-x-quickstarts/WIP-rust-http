@@ -1,7 +1,6 @@
 [package]
-name = "rust-http"
+name = "REPLACE_ME_APP_NAME"
 version = "0.1.0"
-authors = ["rajdavies <rajdavies@gmail.com>"]
 
 [dependencies]
 rocket = "0.3.6"
