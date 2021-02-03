@@ -1,5 +1,8 @@
 [package]
 name = "REPLACE_ME_APP_NAME"
 version = "0.1.0"
+edition = "2018"
 
 [dependencies]
+tokio = { version = "1.0.2", features = ["macros", "rt-multi-thread"] }
+warp = "0.3.0"
